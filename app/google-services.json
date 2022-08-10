@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351780852891",
+    "project_id": "my-note-saver",
+    "storage_bucket": "my-note-saver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351780852891:android:1b2091d6193e8e8765e23e",
+        "android_client_info": {
+          "package_name": "com.nestsoft.anjidictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351780852891-bcisc0gbf4amusr6oms8djn1go8qoq98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKYv8s-AcklI4OKtQ9sD8e-Bo7y_bzeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351780852891-bcisc0gbf4amusr6oms8djn1go8qoq98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
